@@ -97,8 +97,10 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
-<!-- Awesome Tutorial Videos is going to be a list of videos to help you with getting to know and learn hacking" -->
+<!-- Awesome Tutorial Videos is going to be a list of videos to help you with getting to know the basics of hacking" -->
 # Awesome Tutorial Videos 
+<!-- Sites to help you how to hack" -->
+# Awesome Sites
 ## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
